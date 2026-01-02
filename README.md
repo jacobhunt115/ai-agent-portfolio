@@ -10,7 +10,7 @@ I'm Jacob Hunt, a Lead Data Analyst at Autoliv with a passion for bridging data 
 
 My background in data analysis, combined with expertise in Python, SQL, Tableau, and Power BI, allows me to build AI agents that not only automate processes but also provide meaningful insights. I've worked across healthcare, automotive, and technology sectors, giving me a unique perspective on how AI can transform different industries.
 
-When I'm not building AI agents, you'll find me playing basketball, cycling, or spending time with my family in Ogden, Utah.
+When I'm not building AI agents, you'll find me playing basketball, lifting weights, cycling, or spending time with my family in Ogden, Utah.
 
 ---
 
