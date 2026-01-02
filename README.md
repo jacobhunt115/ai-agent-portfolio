@@ -25,7 +25,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 
 [📧 Email me](mailto:jacob@example.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/jacobdhunt)
 
-*Let's build something amazing together!*nt
+*Let's build something amazing together!
 
 ## 🚀 Featured AI Agents
 ### Active Agents 
