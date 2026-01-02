@@ -28,7 +28,38 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 *Let's build something amazing together!*nt
 
 ## 🚀 Featured AI Agents
+### Active Agents 
+### 15- Research Report Generator -Final  
+**Description**: The comprehensive research solution that takes input topics and provides in-depth, detailed breakdowns with suggestions and supporting images.
 
+**Use Case**: Consultants and analysts can generate thorough research reports on any topic, complete with insights, recommendations, and visual elements.
+
+**Key Features:**
+- Deep research capabilities
+- Comprehensive topic analysis
+- Suggestion generation
+- Image integration
+- Professional report formatting
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/15-research-report-generator-final-7602ec97/remix)
+
+---
+
+### Personalized Fitness Plan Builder  
+**Description**: Gathers individual fitness goals and creates custom workout routines tailored to specific objectives and preferences.
+
+**Use Case**: Personal trainers and fitness enthusiasts can generate personalized workout plans that adapt to individual goals, experience levels, and equipment availability.
+
+**Key Features:**
+- Goal-based customization
+- Personalized routine generation
+- Fitness level adaptation
+- Equipment consideration
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/personalized-fitness-plan-builder-c753ae72/remix)
+
+---
+### Inactive Agents - Reach out & I can activate any of interest for running
 ### 1- TL;DR Agent  
 **Description**: This browser extension agent allows you to click a button on any webpage, YouTube video, or PDF to instantly extract all relevant points and key information.
 
@@ -41,6 +72,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Saves time on information processing
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/1-tldr-agent-c5b31b9b/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -56,6 +88,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - No manual copy-pasting required
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/2-email-thread-summarizer-0bc58650/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -71,6 +104,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Fast content creation workflow
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/3-basic-blog-post-generator-35f731d1/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -86,6 +120,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Context-aware content generation
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/4-dynamic-content-generator-17848b0d/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -101,6 +136,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Browser extension activation
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/5-summarize-youtube-video--comments-647e3d72/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -116,6 +152,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Improves customer self-service
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/6-home-page-faq-generator-b6bc7e0a/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -131,6 +168,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Professional email formatting
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/7-personalized-cold-outreach-email-generator-f1217d53/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -146,6 +184,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Official source accuracy
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/8-ask-the-docs-chat-bot-ccaccda6/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -161,6 +200,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Bulk data processing
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/9-extract-people-mentioned-in-a-webpage--send-to-database-7ba50db6/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -176,6 +216,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Professional tone generation
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/10-linkedin-post-generator-64104589/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -191,6 +232,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Historical content tracking
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/11-monitor-website-changes-48437b08/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -206,6 +248,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Polished communication output
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/12-email-thread-summary-and-response-draft-acac3d93/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -221,6 +264,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Channel-specific summaries
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/13-slack-channel-weekly-summary-998e4223/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -236,6 +280,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Topic-specific filtering
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/14generate-and-send-a-daily-news-digest-via-email-5b91a916/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -267,6 +312,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Custom shopping list generation
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/customtestshopping-list-generator-50c4feb2/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -282,6 +328,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Strategic change reporting
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/competitor-analyzer-8fca93b4/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -312,6 +359,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Pantry-based meal planning
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/my-recipe-bot-05a0f31d/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
@@ -327,6 +375,7 @@ Ready to automate your workflows with custom AI agents? I specialize in:
 - Resume optimization guidance
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/resume-keyword-helper-feab6e9f/remix)
+(Currently Inactive -reach out and I can activate it so it will run)
 
 ---
 
